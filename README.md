@@ -1,2 +1,2 @@
 # GitAdventureCodelearn
-Teach Git 
+Teaching Git 
