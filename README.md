@@ -1,2 +1,1 @@
-# GitAdventureCodelearn
-Teaching Git 
+#Git Adventure Time
